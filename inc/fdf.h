@@ -6,7 +6,7 @@
 /*   By: fciprian <fciprian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/12/09 14:37:11 by fciprian          #+#    #+#             */
-/*   Updated: 2016/12/13 14:33:14 by grleblan         ###   ########.fr       */
+/*   Updated: 2016/12/13 15:27:00 by grleblan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,8 +17,8 @@
 **		Defines
 */
 
-# define WIN_H 1000
-# define WIN_W 1000
+# define WIN_H 1280
+# define WIN_W 720
 
 # define TILE_X 30
 # define TILE_Y 30
